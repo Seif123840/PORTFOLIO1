@@ -1,0 +1,2 @@
+Pour utiliser de vraies videos : placez ici aletheia.mp4, care-connect.mp4 et parkini.mp4.
+Le site les detecte et les affiche a la place de l'animation.
